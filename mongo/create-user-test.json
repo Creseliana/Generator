@@ -1,0 +1,10 @@
+{
+  "user": "test",
+  "pwd": "test",
+  "roles": [
+    {
+      "role": "readWrite",
+      "db": "generator_test"
+    }
+  ]
+}
